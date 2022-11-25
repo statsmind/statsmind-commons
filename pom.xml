@@ -16,6 +16,7 @@
 
     <modules>
         <module>commons-jpa</module>
+        <module>commons-concurrent</module>
     </modules>
 
     <properties>
